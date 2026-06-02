@@ -6,3 +6,9 @@ description = "Documentation for the Honeybee programming system."
 
 [build]
 build-dir = "docs"
+
+[output.html]
+git-repository-url = "https://github.com/justinlubin/honeybee-docs"
+git-repository-icon = "fab-github"
+sidebar-header-nav = false
+cname = "docs.honeybee-lang.org"
