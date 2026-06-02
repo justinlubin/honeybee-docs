@@ -1,0 +1,8 @@
+[book]
+title = "Honeybee Documentation"
+authors = ["Justin Lubin"]
+language = "en"
+description = "Documentation for the Honeybee programming system."
+
+[build]
+build-dir = "docs"
